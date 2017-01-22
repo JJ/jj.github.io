@@ -14,6 +14,12 @@ section starts just below.
 
 Esta página es bilingüe. Salta a la [sección en español](#esp).
 
+## Otherwise known as
+
+[JJ in LinkedIn](https://es.linkedin.com/in/juan-j-merelo-0815),
+[JJ in ResearchGate](https://www.researchgate.net/profile/Juan_Merelo_Guervos),
+[JJ in Google Citations](https://scholar.google.com/citations?hl=es&user=gFxqc64AAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F4aLi8A_X-cWhzBV8HogSonX_pu-wVQjUQVR78Ki94PBggSH0j8WE1vcDm0ctxxeR980SO6aWN2eWOoa3Os8EvRn6tpyD6mdfEiY4HRwKgcVHxl0LQ)
+
 ## A page to point to them all
 
 A few of the projects [I have in GitHub](http://github.com/JJ),
@@ -21,10 +27,12 @@ anyway.
 
 ## Tutorials
 
-*
-  [Evolutionary algorithms in the cloud](http://jj.github.io/cloudy-ga/#/),
+* [Evolutionary algorithms in the cloud](http://jj.github.io/cloudy-ga/#/),
   keynote and tutorial at several evolutionary computation related
   conferences. 
+* [Writers: start using GitHub now](https://medium.com/@jjmerelo/writers-start-using-github-now-9b05aaeae03d),
+  on why GitHub is such a good took for stuff, after [reading about
+  these 10 reasons](https://medium.com/@jjmerelo/top-ten-reasons-github-is-a-great-tool-for-creative-writers-d0e8b27de71d#.wmkf1gebd). 
 
 ## My open source novels and books
 
