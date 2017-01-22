@@ -8,38 +8,49 @@ activities in the [Free Software Office](https://github.com/oslugr).
 src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png'
 alt='logo sponsor'></a>
 
+En esta página hablo de mis tutoriales, libros y artículos.
+This page is about my tutorials, presentations and books. English
+section starts just below.
+
+Esta página es bilingüe. Salta a la [sección en español](#esp).
+
 ## A page to point to them all
 
 A few of the projects [I have in GitHub](http://github.com/JJ),
 anyway.
 
-## A few tutorials, most of them in Spanish
+## Tutorials
 
-* [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
-* [Curso de JavaScript](https://github.com/JJ/curso-js)
-* [Computación nube](https://jj.github.io/cloud-computing)
+*
+  [Evolutionary algorithms in the cloud](http://jj.github.io/cloudy-ga/#/),
+  keynote and tutorial at several evolutionary computation related
+  conferences. 
 
-## Some other tutorials I participate in
-
-* [Curso de Git](https://github.com/oslugr/curso-git)
-
-## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
-
-[Infraestructura Virtual](http://jj.github.io/IV/), un poco de
-computación nube.
-
-## My open source novels
+## My open source novels and books
 
 * [Manuel the Magnificent Mechanical Man](http://jj.github.io/hoborg),
   in English which you can also
   [buy in Amazon](http://amzn.to/1qIMTp5) for peanuts.
-
-## Other open source books
-
 * [Granada on](http://granada.re), an alt-travel guide to the city of
   Granada, and yes,
   [you can also buy it in Amazon](http://amzn.to/23nQLNm). 
 
+## Unos cuantos tutoriales {#esp}
+
+* [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
+* [Curso de JavaScript](https://github.com/JJ/curso-js)
+* [Computación nube](https://jj.github.io/cloud-computing)
+* [Curso de Git](https://github.com/oslugr/curso-git)
+
+## Presentaciones sobre temas diversos
+
+* [Inteligencia computacional](http://jj.github.io/ci-carmona).
+
+## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
+
+[Infraestructura Virtual](http://jj.github.io/IV/), un poco de
+computación nube y [Cloud Computing I](http://jj.github.io/CC), más
+computación nube
 
 ## ObPicture
 
