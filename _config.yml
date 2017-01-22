@@ -1,5 +1,5 @@
 markdown: redcarpet
-pygments: true
+highlighter: rouge
 
 title_tag_text: JJ Merelo @github
 h1_tag_text: JJ Merelo @GitHub
