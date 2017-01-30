@@ -32,7 +32,16 @@ anyway.
   conferences. 
 * [Writers: start using GitHub now](https://medium.com/@jjmerelo/writers-start-using-github-now-9b05aaeae03d),
   on why GitHub is such a good took for stuff, after [reading about
-  these 10 reasons](https://medium.com/@jjmerelo/top-ten-reasons-github-is-a-great-tool-for-creative-writers-d0e8b27de71d#.wmkf1gebd). 
+  these 10 reasons](https://medium.com/@jjmerelo/top-ten-reasons-github-is-a-great-tool-for-creative-writers-d0e8b27de71d#.wmkf1gebd).
+  
+## Some musings about how to learn (and teach) programming
+
+I am not so happy with the way programming languages are explained or learned. I am trying to do something about it
+
+* First I wrote this [manifesto on why we were doing it wrong](https://medium.com/@jjmerelo/teaching-computer-languages-we-re-doing-it-wrong-9baf7548904a#.z5nd5hi67).
+* Then I came up with a series of [proposals to do it better](https://medium.com/@jjmerelo/learning-to-program-good-edfdc939753e#.99th86dlq). 
+* I defended those proposals, and a few more, in [this presentation during the London Perl Workshop](https://jj.github.io/lpw16/#/4/4). 
+* I get to defend it again during FOSDEM. Inclusion later. 
 
 ## My open source novels and books
 
