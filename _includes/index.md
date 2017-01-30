@@ -36,7 +36,7 @@ anyway.
   
 ## Some musings about how to learn (and teach) programming
 
-I am not so happy with the way programming languages are explained or learned. I am trying to do something about it
+I am not so happy with the way programming languages are explained or learned. I am trying to do something about it, and [in this post in LinkedIn](https://www.linkedin.com/pulse/new-way-teaching-how-program-juan-j-merelo?trk=prof-post) I try to describe what is the deal with this new way. 
 
 * First I wrote this [manifesto on why we were doing it wrong](https://medium.com/@jjmerelo/teaching-computer-languages-we-re-doing-it-wrong-9baf7548904a#.z5nd5hi67).
 * Then I came up with a series of [proposals to do it better](https://medium.com/@jjmerelo/learning-to-program-good-edfdc939753e#.99th86dlq). 
