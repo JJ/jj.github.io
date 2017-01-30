@@ -42,7 +42,7 @@ I am not so happy with the way programming languages are explained or learned. I
 * Then I came up with a series of [proposals to do it better](https://medium.com/@jjmerelo/learning-to-program-good-edfdc939753e#.99th86dlq). 
 * I defended those proposals, and a few more, in [this presentation during the London Perl Workshop](https://jj.github.io/lpw16/#/4/4). 
 * While trying to make it right, [I started to teach Perl6 to my family](https://medium.com/@jjmerelo/some-time-ago-i-found-i-did-not-like-the-way-the-way-programming-was-taught-3786e60882c#.22bppmqcp). 
-* I get to defend it again during FOSDEM. Inclusion later. 
+* I get to defend it again during FOSDEM. It will be in [this presentation, Goodbye Hello World](https://jj.github.io/goodbye-hello-world). 
 
 ## My open source novels and books
 
