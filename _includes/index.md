@@ -18,7 +18,8 @@ Esta página es bilingüe. Salta a la [sección en español](#esp).
 
 [JJ in LinkedIn](https://es.linkedin.com/in/juan-j-merelo-0815),
 [JJ in ResearchGate](https://www.researchgate.net/profile/Juan_Merelo_Guervos),
-[JJ in Google Citations](https://scholar.google.com/citations?hl=es&user=gFxqc64AAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F4aLi8A_X-cWhzBV8HogSonX_pu-wVQjUQVR78Ki94PBggSH0j8WE1vcDm0ctxxeR980SO6aWN2eWOoa3Os8EvRn6tpyD6mdfEiY4HRwKgcVHxl0LQ)
+[JJ in Google Citations](https://scholar.google.com/citations?hl=es&user=gFxqc64AAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F4aLi8A_X-cWhzBV8HogSonX_pu-wVQjUQVR78Ki94PBggSH0j8WE1vcDm0ctxxeR980SO6aWN2eWOoa3Os8EvRn6tpyD6mdfEiY4HRwKgcVHxl0LQ),
+[JJ in FigShare](https://figshare.com/authors/Juan_J_Merelo/541327), [`jjmerelo` in Twitter](http://twitter.com/jjmerelo), [`jjmerelo` in Medium](https://medium.com/@jjmerelo)
 
 ## A page to point to them all
 
