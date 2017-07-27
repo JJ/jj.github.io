@@ -1,14 +1,6 @@
 
-## Sponsors
-
-[EasyName](https://www.easyname.com/es) is sponsoring some or our
-activities in the [Free Software Office](https://github.com/oslugr).
-
-<a href='https://www.easyname.com/es'><img
-src='https://raw.githubusercontent.com/JJ/top-github-users-data/master/img/easyname_500px.png'
-alt='logo sponsor'></a>
-
 En esta página hablo de mis tutoriales, libros y artículos.
+
 This page is about my tutorials, presentations and books. English
 section starts just below.
 
@@ -19,7 +11,11 @@ Esta página es bilingüe. Salta a la [sección en español](#esp).
 [JJ in LinkedIn](https://es.linkedin.com/in/juan-j-merelo-0815),
 [JJ in ResearchGate](https://www.researchgate.net/profile/Juan_Merelo_Guervos),
 [JJ in Google Citations](https://scholar.google.com/citations?hl=es&user=gFxqc64AAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F4aLi8A_X-cWhzBV8HogSonX_pu-wVQjUQVR78Ki94PBggSH0j8WE1vcDm0ctxxeR980SO6aWN2eWOoa3Os8EvRn6tpyD6mdfEiY4HRwKgcVHxl0LQ),
-[JJ in FigShare](https://figshare.com/authors/Juan_J_Merelo/541327), [`jjmerelo` in Twitter](http://twitter.com/jjmerelo), [`jjmerelo` in Medium](https://medium.com/@jjmerelo)
+[JJ in FigShare](https://figshare.com/authors/Juan_J_Merelo/541327),
+[`jjmerelo` in Twitter](http://twitter.com/jjmerelo),
+[`jjmerelo` in Medium](https://medium.com/@jjmerelo), and, you guessed
+it, [`jjmerelo` in Instagram](https://www.instagram.com/jjmerelo/). 
+
 
 ## A page to point to them all
 
@@ -47,10 +43,13 @@ I am not so happy with the way programming languages are explained or learned. I
 
 ## My open source novels and books
 
+* [Learning to program with Perl 6](http://amzn.to/2eQ2d2j), available
+  both in eBook and paperback.
+  
 * [Manuel the Magnificent Mechanical Man](http://jj.github.io/hoborg),
   in English which you can also
   [buy in Amazon](http://amzn.to/1qIMTp5) for peanuts.
-* [Granada on](http://granada.re), an alt-travel guide to the city of
+* [Granada on](http://amzn.to/2uB1PtQ), an alt-travel guide to the city of
   Granada, and yes,
   [you can also buy it in Amazon](http://amzn.to/23nQLNm). 
 
@@ -65,7 +64,7 @@ I am not so happy with the way programming languages are explained or learned. I
 
 * [Inteligencia computacional](http://jj.github.io/ci-carmona).
 
-## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
+## Asignaturas que enseño en la [ETSIIT](http://etsiit.ugr.es)
 
 [Infraestructura Virtual](http://jj.github.io/IV/), un poco de
 computación nube y [Cloud Computing I](http://jj.github.io/CC), más
