@@ -1,4 +1,10 @@
 
+JJ Merelo es catedrático de arquitectura y tecnología de computadores
+en la [Universidad de Granada](http://www.ugr.es). 
+
+JJ Merelo is professor at
+the [University of Granada](http://www.ugr.es). 
+
 En esta página hablo de mis tutoriales, libros y artículos.
 
 This page is about my tutorials, presentations and books. English
@@ -9,7 +15,7 @@ Esta página es bilingüe. Salta a la [sección en español](#esp).
 ## Otherwise known as
 
 [JJ in LinkedIn](https://es.linkedin.com/in/juan-j-merelo-0815),
-[JJ in ResearchGate](https://www.researchgate.net/profile/Juan_Merelo_Guervos),
+[JJ in ResearchGate](https://www.researchgate.net/profile/Juan_Merelo_Guervos) and [Academia.edu](https://granada.academia.edu/JJMerelo),
 [JJ in Google Citations](https://scholar.google.com/citations?hl=es&user=gFxqc64AAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F4aLi8A_X-cWhzBV8HogSonX_pu-wVQjUQVR78Ki94PBggSH0j8WE1vcDm0ctxxeR980SO6aWN2eWOoa3Os8EvRn6tpyD6mdfEiY4HRwKgcVHxl0LQ),
 [JJ in FigShare](https://figshare.com/authors/Juan_J_Merelo/541327),
 [`jjmerelo` in Twitter](http://twitter.com/jjmerelo),
@@ -52,8 +58,23 @@ I am not so happy with the way programming languages are explained or learned. I
 * [Granada on](http://amzn.to/2uB1PtQ), an alt-travel guide to the city of
   Granada, and yes,
   [you can also buy it in Amazon](http://amzn.to/23nQLNm). 
+  
+## Mis libros técnicos {#esp}
 
-## Unos cuantos tutoriales {#esp}
+* [Aprende Python](http://amzn.to/2vgVhzn), como si estuvieras en el
+  siglo XXI, un enfoque moderno de la programación desde el
+  pensamiento computacional.
+
+* [Aprende git](http://amzn.to/2ve7F4v), para manejar esta
+  herramienta, escrito junto
+  con [Pablo Hinojosa](http://psicobyte.com)
+  
+* [Aprende a programar la nube](https://granada.academia.edu/JJMerelo),
+  *cloud computing* para todo el mundo con JavaScript.
+ 
+* [Aprende JavaScript](http://amzn.to/2uBkAdf)
+
+## Unos cuantos tutoriales 
 
 * [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
 * [Curso de JavaScript](https://github.com/JJ/curso-js)
