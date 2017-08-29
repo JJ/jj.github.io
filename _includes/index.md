@@ -25,7 +25,7 @@ it, [`jjmerelo` in Instagram](https://www.instagram.com/jjmerelo/).
 
 ## A page to point to them all
 
-A few of the projects [I have in GitHub](http://github.com/JJ),
+Or a few of the projects [I have in GitHub](http://github.com/JJ),
 anyway.
 
 ## Tutorials
@@ -76,14 +76,28 @@ I am not so happy with the way programming languages are explained or learned. I
 
 ## Unos cuantos tutoriales 
 
+Más de unos cuantos. Los separamos por lenguajes:
+
 * [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
 * [Curso de JavaScript](https://github.com/JJ/curso-js)
-* [Computación nube](https://jj.github.io/cloud-computing)
 * [Curso de Git](https://github.com/oslugr/curso-git)
+
+Temas relacionados con *cloud computing*:
+
+* [Computación nube](https://jj.github.io/cloud-computing)
+
+O la web
+
+* [Mi primera web desde GitHub](https://mi1web.github.io/#/), con
+  instrucciones para crearte tu web desde GitHub.
 
 ## Presentaciones sobre temas diversos
 
 * [Inteligencia computacional](http://jj.github.io/ci-carmona).
+*
+  [Dos o tres cosas que posiblemente no te hayan contado en la carrera](https://jj.github.io/lo-que-no/) sobre
+  pilas, microservicios, arquitecturas *serverless* y demás
+  modernidades. 
 
 ## Asignaturas que enseño en la [ETSIIT](http://etsiit.ugr.es)
 
